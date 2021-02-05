@@ -1,0 +1,1 @@
+{"name":"Local: max_area_rect_bin","url":"/home/ajansari95/cpp_codes/adv_stck/max_area_rect_bin.cpp","tests":[{"id":1612532559060,"input":"4 4 \n0 1 1 0 1 1 1 1 1 1 1 1 1 1 0 0","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ajansari95/cpp_codes/adv_stck/max_area_rect_bin.cpp","group":"local","local":true}

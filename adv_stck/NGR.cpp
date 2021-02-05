@@ -31,7 +31,7 @@ int main(){
     int arr[] ={1,3,2,4};
     vector<int> v;
     stack<int> s;
-    for(int i=)
+    // for(int i=)
 
 
 }
